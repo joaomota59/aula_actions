@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aula_actions/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/aula_actions/static/js/main.2394560b.chunk.js",
+    "main.js.map": "/aula_actions/static/js/main.2394560b.chunk.js.map",
+    "runtime-main.js": "/aula_actions/static/js/runtime-main.5ff40660.js",
+    "runtime-main.js.map": "/aula_actions/static/js/runtime-main.5ff40660.js.map",
+    "static/js/2.0e3ad67b.chunk.js": "/aula_actions/static/js/2.0e3ad67b.chunk.js",
+    "static/js/2.0e3ad67b.chunk.js.map": "/aula_actions/static/js/2.0e3ad67b.chunk.js.map",
+    "static/js/3.f2126f3f.chunk.js": "/aula_actions/static/js/3.f2126f3f.chunk.js",
+    "static/js/3.f2126f3f.chunk.js.map": "/aula_actions/static/js/3.f2126f3f.chunk.js.map",
+    "index.html": "/aula_actions/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/aula_actions/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.0e3ad67b.chunk.js.LICENSE.txt": "/aula_actions/static/js/2.0e3ad67b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/aula_actions/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ff40660.js",
+    "static/js/2.0e3ad67b.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.2394560b.chunk.js"
+  ]
+}
